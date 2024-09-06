@@ -1,0 +1,5 @@
+Autor: Milena Bueno Maciel    
+Descrição: Observe o trecho de código abaixo: int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
+Ao final do processamento, qual será o valor da variável SOMA?
+
+O resultado final da variável soma será igual a 77. Isso acontecerá, pois o valor final será a soma de todos os números de 2 até 12, que é a faixa em que k será incrementado antes de sair do looping.
